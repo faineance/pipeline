@@ -1,13 +1,13 @@
 from distutils.core import setup
 
 setup(
-    name='inlineasm',
+    name='upipe',
 
     version='0.0.3',
 
-    description='inlineasm',
+    description='upipe',
 
-    url='https://github.com/faineance/inlineasm',
+    url='https://github.com/faineance/upipe',
 
     author='faineance',
     author_email='faineance@users.noreply.github.com',
@@ -25,6 +25,6 @@ setup(
         'Programming Language :: Python :: 3.5',
     ],
 
-    packages=['inlineasm'],
+    packages=['upipe'],
 
 )
